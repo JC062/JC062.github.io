@@ -1,17 +1,15 @@
+[![JC062](https://github.com/JC062/JC0623.github.io)](https://github.com/JC062/JC0623.github.io)
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a student of the Macao Polytechnic University, it also speak spanish, chinese and english, he like play basketball and listening songs of  Jay Chou. 
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: juanchen06@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.D., Artificial Intelligence, Macao Polytechnic University, 2025-2029
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Creation of Technology
+
 
